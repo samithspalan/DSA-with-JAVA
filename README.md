@@ -13,7 +13,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ### **🛠 How to Use**  
 - Clone the repo:  
   ```sh
-  git clone https://github.com/your-username/dsa-java-practice.git
+  git clone https://github.com/samithspalan/dsa-java-practice.git
   ```
 - Open in your favorite IDE (VS Code, IntelliJ, Eclipse).  
 
